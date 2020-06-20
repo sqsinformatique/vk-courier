@@ -1,0 +1,6 @@
+[submodule "curier-back"]
+	path = curier-back
+	url = https://github.com/sqsinformatique/curier-back.git
+[submodule "vk-courier-front"]
+	path = vk-courier-front
+	url = https://github.com/sqsinformatique/vk-courier-front.git
