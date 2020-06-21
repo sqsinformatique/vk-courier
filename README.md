@@ -17,6 +17,7 @@
 
 Запуск фронта
 1) Вернуться в ./vk-courier, запустить фронт 
+   npm install
    nmp start
 2) Запустить ngrok 
    ngrok http https://localhost:10888 -host-header="localhost:10888"
